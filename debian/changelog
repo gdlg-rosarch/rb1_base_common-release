@@ -1,0 +1,31 @@
+ros-indigo-rb1-base-pad (1.0.6-0trusty) trusty; urgency=high
+
+  * rb1_base_pad: adds missing install rule
+  * Contributors: Jorge Arino
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Wed, 21 Sep 2016 22:00:00 -0000
+
+ros-indigo-rb1-base-pad (1.0.3-0trusty) trusty; urgency=high
+
+  * Modified Cmake.lists rb1_base_pad
+  * Contributors: AliquesTomas
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Wed, 06 Jul 2016 22:00:00 -0000
+
+ros-indigo-rb1-base-pad (1.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-indigo-rb1-base-pad (1.0.1-0trusty) trusty; urgency=high
+
+  * deleted ~ files
+  * Added rb1_base_common packages
+  * send 0 on deadman release
+  * added description and pad folders
+  * Contributors: AliquesTomas, Marc Bosch, rguzman
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+
